@@ -1,4 +1,5 @@
 // Base class (parent class) representing a vehicle
+
 class Vehicle {
     private String brand;
     private int year;

@@ -37,3 +37,9 @@
 3. [Java Tutorials at tutorialspoint](https://www.tutorialspoint.com/java/index.htm)
 
 Feel free to explore these resources to enhance your understanding of Java.
+
+**Paper Structure**
+- Basic theory and codes
+- OOP concepts
+- jFrame
+- Client server architecture 

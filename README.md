@@ -1,6 +1,5 @@
 # Java-Notes
 
-
 - **Core Concepts:**
   - Object-oriented programming (OOP)
   - Variables, data types, and operators
